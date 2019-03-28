@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50c42a-b1f1-4dae-b477-d354054c4c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javaThinking11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThinking11/src/iterator/IteratorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThinking11/src/iterator/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collection源码/ArrayList.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection源码/ArrayList.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThinking11/src/iterator/adaptor/IteratorClassAdaptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking11/out/production/javaThinking11/iterator/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking11/out/production/javaThinking11/iterator/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking11/src/iterator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking11/src/iterator/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />

@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60033434-139c-433e-bf76-8c6755a408dc" name="Default Changelist" comment="">
+    <list default="true" id="d02dcfb3-2c8c-48f5-8714-b1d5fcb74d19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Collection源码/ArrayList.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection源码/Collection.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection源码/HashMap.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection源码/LinkedList.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/MyProxyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/MyProxyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/iml/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/iml/Man.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,35 +21,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ExceptionTest.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
@@ -54,27 +36,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="javaThinking12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaThinking12" type="462c0819:PsiDirectoryNode" />
+              <item name="javathinking15" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathinking15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553778442439" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,39 +72,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionTest" />
-      <module name="javaThinking12" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ExceptionTest" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60033434-139c-433e-bf76-8c6755a408dc" name="Default Changelist" comment="" />
-      <created>1553761980832</created>
+      <changelist id="d02dcfb3-2c8c-48f5-8714-b1d5fcb74d19" name="Default Changelist" comment="" />
+      <created>1553858912234</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553761980832</updated>
-      <workItem from="1553761983438" duration="2316000" />
+      <updated>1553858912234</updated>
+      <workItem from="1553858916199" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2316000" />
+    <option name="totallyTimeSpent" value="1430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -129,7 +100,6 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -138,7 +108,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -156,13 +126,79 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javathinking15</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.62413794" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

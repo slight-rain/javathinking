@@ -1,4 +1,10 @@
 package proxy.iml;
 
-public class Man {
+import proxy.Person;
+
+public class Man implements Person {
+    @Override
+    public void say(){
+        System.out.println("I am failure");
+    }
 }

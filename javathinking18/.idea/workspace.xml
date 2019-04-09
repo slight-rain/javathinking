@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5091fab8-3811-4bc6-a6ae-8e326e067478" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../javathinking17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file/DirList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/DirList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file/ObjectFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/ObjectFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input/BufferedInputFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/input/BufferedInputFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nio/FileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nio/FileCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nio/FileLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nio/FileLocking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/BasicFileOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/output/BasicFileOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xml/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xml/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking19/src/enumGroup/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking19/src/enumGroup/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking19/src/enumGroup/TypeOfFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking19/src/enumGroup/TypeOfFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking19/src/enumTest/EnumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking19/src/enumTest/EnumClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking19/src/enumTest/RandomEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking19/src/enumTest/RandomEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking19/src/enumTest/RoShamBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking19/src/enumTest/RoShamBo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking20/src/annotation/AnnotationHadler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking20/src/annotation/AnnotationHadler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking20/src/annotation/PasswordUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking20/src/annotation/PasswordUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking20/src/annotation/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking20/src/annotation/UseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking20/src/unitTest/UnitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking20/src/unitTest/UnitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/FixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/FixedThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/LiftOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/LiftOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/SynTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/SynTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/lock/AttemptLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/lock/AttemptLocking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/priority/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/priority/PriorityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/resultOfThread/TaskWithResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/resultOfThread/TaskWithResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking21/src/thread/resultOfThread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking21/src/thread/resultOfThread/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk源码阅读/map/TreeMap.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk源码阅读/map/~$nkedHashMap.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk源码阅读/map/~$reeMap.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdk源码阅读/map/~WRL0688.tmp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5377">
+              <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/file/ObjectFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nio/FileCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xml/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nio/FileLocking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/channels/FileChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11134">
+              <caret line="618" column="25" selection-start-line="618" selection-start-column="25" selection-end-line="618" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.output">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bak.output">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/RandomAccessFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16207">
+              <caret line="881" column="50" selection-start-line="881" selection-start-column="50" selection-end-line="881" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/file/DirList.java" />
+        <option value="$PROJECT_DIR$/src/input/BufferedInputFile.java" />
+        <option value="$PROJECT_DIR$/src/output/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/file/ObjectFile.java" />
+        <option value="$PROJECT_DIR$/src/nio/FileCopy.java" />
+        <option value="$PROJECT_DIR$/src/nio/FileLocking.java" />
+        <option value="$PROJECT_DIR$/src/xml/Person.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554282511207" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="BasicFileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="output.BasicFileOutput" />
+      <module name="javathinking18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.FileCopy" />
+      <module name="javathinking18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLocking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.FileLocking" />
+      <module name="javathinking18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.ObjectFile" />
+      <module name="javathinking18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xml.Person" />
+      <module name="javathinking18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.FileLocking" />
+        <item itemvalue="Application.FileCopy" />
+        <item itemvalue="Application.ObjectFile" />
+        <item itemvalue="Application.BasicFileOutput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5091fab8-3811-4bc6-a6ae-8e326e067478" name="Default Changelist" comment="" />
+      <created>1554172682824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554172682824</updated>
+      <workItem from="1554172686631" duration="4328000" />
+      <workItem from="1554186009680" duration="8109000" />
+      <workItem from="1554258961259" duration="2299000" />
+      <workItem from="1554284890323" duration="1215000" />
+      <workItem from="1554340719105" duration="1386000" />
+      <workItem from="1554686477997" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17461000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708165" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283859" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39888683" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3283859" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/output/BasicFileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1085" column="45" selection-start-line="1085" selection-start-column="40" selection-end-line="1085" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="550" column="5" selection-start-line="550" selection-start-column="5" selection-end-line="550" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="637" column="16" selection-start-line="637" selection-start-column="16" selection-end-line="637" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/DirList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input/BufferedInputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/org/w3c/dom/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5377">
+          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/ObjectFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/FileCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xml/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/FileLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11134">
+          <caret line="618" column="25" selection-start-line="618" selection-start-column="25" selection-end-line="618" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.output">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak.output">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16207">
+          <caret line="881" column="50" selection-start-line="881" selection-start-column="50" selection-end-line="881" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

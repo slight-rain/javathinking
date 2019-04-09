@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e350ae22-99d7-4c35-8303-3c86656570e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readOnly/ReadOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collection源码/ArrayList.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collection源码/Collection.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collection源码/HashMap.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collection源码/LinkedList.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/MyProxyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/MyProxyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaThinking14/src/proxy/iml/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThinking14/src/proxy/iml/Man.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javathinking4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javathinking4/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +26,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/set/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readOnly/ReadOnly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -125,20 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="787">
-              <caret line="3811" column="30" lean-forward="true" selection-start-line="3811" selection-start-column="30" selection-end-line="3811" selection-end-column="30" />
-              <folding>
-                <element signature="e#177013#177014#0" expanded="true" />
-                <element signature="e#177054#177055#0" expanded="true" />
-                <element signature="e#177410#177411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -189,6 +173,12 @@
               <item name="javathinking17" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javathinking17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathinking17" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554118353088" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554118933962" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -268,23 +258,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554101033817</updated>
-      <workItem from="1554101037637" duration="10710000" />
+      <workItem from="1554101037637" duration="11322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10710000" />
+    <option name="totallyTimeSpent" value="11322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" sideWeight="0.50276244" side_tool="true" weight="0.2497979" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7685185" visible="true" weight="0.2497979" />
-      <window_info id="Structure" order="1" sideWeight="0.23148148" side_tool="true" visible="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86085343" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" sideWeight="0.13914657" side_tool="true" visible="true" weight="0.2497979" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -294,7 +285,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.09090909" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39888683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -313,16 +304,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/set/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -398,13 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-575">
@@ -420,6 +394,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/set/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

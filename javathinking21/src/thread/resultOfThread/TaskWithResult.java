@@ -1,4 +1,4 @@
-package thread;
+package thread.resultOfThread;
 
 import java.util.concurrent.Callable;
 
